@@ -1,0 +1,139 @@
+COLECTOR SOLAR DE DOBLE CIRCUITO CON FILTRO DE AGUA PARA LA RADIACIÓN INFRARROJA DE RETORNO
+(Descripción para fijación de prioridad, dominio público)
+
+Fecha de publicación: 2026-06-08
+Autor: anónimo. La presente descripción se publica en dominio público (CC0).
+
+1. CAMPO DE APLICACIÓN
+El dispositivo se refiere a colectores solares para calentar agua a altas
+temperaturas (muy por encima de la temperatura ambiente) con pérdidas
+térmicas mínimas.
+
+2. ESTADO DE LA TÉCNICA
+Se conocen colectores planos y de tubo de vacío con recubrimientos selectivos.
+Sus inconvenientes: fabricación compleja, alto coste de los materiales,
+pérdidas térmicas por radiación infrarroja (IR) al calentarse por encima
+de 60–70°C.
+
+3. ESENCIA DE LA INVENCIÓN
+
+3.1. Principio de funcionamiento (resumido)
+El agua en estado líquido posee una propiedad óptica única: es transparente
+a la radiación visible (de onda corta) en el rango 0,4–0,75 µm, pero absorbe
+fuertemente la radiación infrarroja (IR, de onda larga) emitida por los
+cuerpos calientes.
+
+El diseño propuesto utiliza esta propiedad de la siguiente manera:
+— El agua fría, tomada de una fuente de agua, fluye a través del circuito
+  exterior y transmite libremente la luz solar al absorbedor negro del
+  circuito interior (debido a la transparencia del agua en el rango visible).
+— Esa misma agua fría actúa simultáneamente como filtro, atrapando la
+  radiación IR térmica de los elementos calientes del circuito interior
+  e impidiendo que escape (debido a la absorción del agua en el rango IR).
+— El agua fría del circuito exterior también actúa como **barrera térmica**:
+  mantiene fría la pared exterior del colector, por lo que las pérdidas
+  radiales por conducción desde el núcleo caliente son prácticamente nulas
+  (no hay diferencia significativa de temperatura entre la pared exterior
+  y el aire ambiente).
+— El calor absorbido (tanto de la radiación de retorno como de eventuales
+  flujos conductivos) permanece en el sistema y se devuelve al fluido
+  caloportador.
+
+3.2. Construcción
+— Circuito interior: un tubo transparente (vidrio o policarbonato) en cuyo
+  interior se encuentra un absorbedor negro mate calentado por la radiación
+  solar. Por el tubo circula el agua que se calienta.
+— Circuito exterior: un espacio de 1–2 mm entre dos tubos transparentes
+  (exterior e interior) por el que circula agua fría procedente de una fuente
+  de agua (la misma agua que luego entra en el circuito interior).
+— Entre los dos tubos transparentes puede disponerse adicionalmente un espacio
+  hermético lleno de aire, dióxido de carbono, argón u otro gas de baja
+  conductividad térmica. El espesor de este espacio debe ser pequeño (pocos
+  milímetros) para suprimir las corrientes de convección.
+— El absorbedor negro se coloca DENTRO del tubo interior transparente, de modo
+  que el calor se transfiere directamente al agua en la zona de contacto,
+  no a través de la pared del tubo.
+
+3.3. Descripción detallada de los procesos (paso a paso)
+
+Paso 1. Transmisión de la luz solar.
+La radiación solar atraviesa la pared exterior transparente, luego la capa
+de agua fría en el espacio exterior (el agua es transparente a la radiación
+visible en el rango 0,4–0,75 µm), luego la pared del tubo interior y, por
+último, incide sobre el absorbedor negro, calentándolo.
+
+Paso 2. Calentamiento del agua en el circuito interior.
+El agua que circula por el interior del tubo interior contacta directamente
+con el absorbedor negro y absorbe el calor sin capas intermedias.
+La temperatura del agua aumenta.
+
+Paso 3. Radiación IR térmica de retorno.
+Los elementos calientes del circuito interior (agua, pared del tubo,
+absorbedor negro) emiten radiación térmica en el rango infrarrojo (IR de onda
+larga). Esta radiación es casi totalmente bloqueada por la capa de agua fría
+en el espacio exterior: el agua absorbe fuertemente la radiación IR.
+La radiación es absorbida por la capa exterior de agua, calentándola.
+
+Paso 4. Bloqueo de las pérdidas conductivas.
+Dado que la capa exterior de agua se mantiene fría (se renueva continuamente
+con agua fresca de la fuente), la temperatura de la pared exterior del
+colector es cercana a la ambiente. El gradiente térmico «núcleo caliente —
+aire exterior» se interrumpe: el calor que podría escapar a través de la
+pared del tubo y del espacio gaseoso es interceptado por el agua fría del
+circuito exterior.
+
+Paso 5. Retorno del calor al sistema.
+El agua del espacio exterior, calentada por la absorción de la radiación IR
+de retorno y por la intercepción de los flujos conductivos, entra luego en
+el circuito interior y se calienta hasta la temperatura final. De este modo,
+tanto las pérdidas radiativas como las conductivas que en los diseños
+convencionales se pierden irremediablemente se devuelven aquí al fluido
+caloportador.
+
+4. BALANCE ENERGÉTICO (estimado, por 1 m²)
+Radiación solar en cielo despejado: unos 1000 W/m².
+De ellos:
+— unos 830 W corresponden al rango visible e IR cercano en el que el agua
+  es transparente; esta energía llega al absorbedor negro.
+— unos 170 W se absorben directamente en la capa exterior de agua
+  (también es calor útil).
+
+La emisión IR térmica del agua calentada a alta temperatura (por ejemplo,
+a 90°C) es de unos 520 W/m². En el diseño propuesto, esta emisión es
+totalmente absorbida por una capa exterior de agua de apenas 1–2 mm de
+espesor y no escapa del sistema.
+
+Resultado: las pérdidas radiativas y conductivas son prácticamente nulas.
+
+5. CARACTERÍSTICAS DISTINTIVAS
+— Utilización del mismo fluido caloportador (agua) en dos circuitos
+  secuenciales.
+— Una capa exterior de agua fría de 1–2 mm de espesor (tomada de una fuente
+  de agua) actúa como filtro IR selectivo, absorbiendo la radiación térmica
+  de retorno de los elementos calientes del circuito interior.
+— Esa misma capa exterior de agua fría de 1–2 mm actúa simultáneamente como
+  barrera térmica, bloqueando las pérdidas radiales por conducción desde el
+  núcleo caliente (la temperatura de la pared exterior se mantiene cercana
+  a la ambiente).
+— El absorbedor negro se coloca DENTRO del tubo interior transparente, lo que
+  evita pérdidas de calor a través de su pared y garantiza el contacto directo
+  del agua con el absorbedor.
+— Un pequeño espacio gaseoso (pocos milímetros) entre los tubos transparentes
+  reduce la conductividad térmica y suprime la convección.
+
+6. VENTAJAS
+— Construcción sencilla a partir de materiales disponibles (tubos de
+  policarbonato, pintura negra).
+— No se necesitan costosas cámaras de vacío ni recubrimientos selectivos.
+— Las pérdidas radiativas y conductivas se minimizan aprovechando las
+  propiedades físicas inherentes al agua.
+— La envoltura exterior de agua fría permanece fría, lo que reduce las
+  pérdidas conductivas al ambiente.
+
+7. ESTADO
+La presente descripción se publica en acceso abierto y pasa a ser dominio
+público (Public Domain, CC0). Cualquier persona, organización o país tiene
+derecho a utilizar, copiar, modificar y distribuir esta solución técnica sin
+restricciones ni pago de regalías.
+
+Fecha de publicación: 2026-06-08
