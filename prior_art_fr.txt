@@ -1,0 +1,139 @@
+CAPTEUR SOLAIRE À DOUBLE CIRCUIT AVEC FILTRE À EAU POUR LE RAYONNEMENT INFRAROUGE DE RETOUR
+(Description pour l'établissement de la priorité, domaine public)
+
+Date de publication : 2026-06-08
+Auteur : anonyme. La présente description est placée dans le domaine public (CC0).
+
+1. DOMAINE D'APPLICATION
+Le dispositif concerne les capteurs solaires pour chauffer l'eau à des
+températures élevées (bien supérieures à la température ambiante) avec des
+pertes thermiques minimales.
+
+2. ÉTAT DE LA TECHNIQUE
+On connaît des capteurs plans et à tubes sous vide avec revêtements sélectifs.
+Leurs inconvénients : fabrication complexe, coût élevé des matériaux,
+pertes thermiques par rayonnement infrarouge (IR) lors du chauffage au-dessus
+de 60–70°C.
+
+3. EXPOSÉ DE L'INVENTION
+
+3.1. Principe de fonctionnement (simplifié)
+L'eau à l'état liquide possède une propriété optique unique : elle est
+transparente au rayonnement visible (à ondes courtes) dans la gamme
+0,4–0,75 µm, mais absorbe fortement le rayonnement infrarouge (IR, à ondes
+longues) émis par les corps chauds.
+
+La conception proposée utilise cette propriété de la manière suivante :
+— L'eau froide, puisée dans une source d'eau, s'écoule dans le circuit
+  extérieur et transmet librement la lumière solaire à l'absorbeur noir
+  du circuit intérieur (grâce à la transparence de l'eau dans le domaine
+  visible).
+— Cette même eau froide agit simultanément comme un filtre, piégeant le
+  rayonnement IR thermique des éléments chauds du circuit intérieur et
+  l'empêchant de s'échapper (grâce à l'absorption de l'eau dans le domaine IR).
+— L'eau froide du circuit extérieur agit également comme **barrière thermique** :
+  elle maintient la paroi extérieure du capteur froide, de sorte que les
+  pertes radiales par conduction depuis le cœur chaud sont pratiquement nulles
+  (pas de différence significative de température entre la paroi extérieure
+  et l'air ambiant).
+— La chaleur absorbée (tant du rayonnement de retour que des éventuels flux
+  conductifs) reste dans le système et est restituée au fluide caloporteur.
+
+3.2. Construction
+— Circuit intérieur : un tube transparent (verre ou polycarbonate) à
+  l'intérieur duquel se trouve un absorbeur noir mat chauffé par le
+  rayonnement solaire. L'eau à chauffer circule dans ce tube.
+— Circuit extérieur : un espace de 1–2 mm entre deux tubes transparents
+  (extérieur et intérieur) dans lequel circule de l'eau froide provenant
+  d'une source d'eau (la même eau qui entre ensuite dans le circuit intérieur).
+— Entre les deux tubes transparents, on peut prévoir un espace hermétique
+  rempli d'air, de dioxyde de carbone, d'argon ou d'un autre gaz à faible
+  conductivité thermique. L'épaisseur de cet espace doit être faible
+  (quelques millimètres) pour supprimer les courants de convection.
+— L'absorbeur noir est placé À L'INTÉRIEUR du tube intérieur transparent,
+  de sorte que la chaleur est transférée directement à l'eau dans la zone
+  de contact, et non à travers la paroi du tube.
+
+3.3. Description détaillée des processus (étape par étape)
+
+Étape 1. Transmission de la lumière solaire.
+Le rayonnement solaire traverse la paroi extérieure transparente, puis la
+couche d'eau froide dans l'espace extérieur (l'eau est transparente au
+rayonnement visible dans la gamme 0,4–0,75 µm), puis la paroi du tube
+intérieur, et enfin frappe l'absorbeur noir, le chauffant.
+
+Étape 2. Chauffage de l'eau dans le circuit intérieur.
+L'eau circulant à l'intérieur du tube intérieur entre en contact direct avec
+l'absorbeur noir et en absorbe la chaleur sans couches intermédiaires.
+La température de l'eau augmente.
+
+Étape 3. Rayonnement IR thermique de retour.
+Les éléments chauds du circuit intérieur (eau, paroi du tube, absorbeur noir)
+émettent un rayonnement thermique dans l'infrarouge (IR à ondes longues).
+Ce rayonnement est presque totalement bloqué par la couche d'eau froide dans
+l'espace extérieur : l'eau absorbe fortement le rayonnement IR.
+Le rayonnement est absorbé par la couche extérieure d'eau, la chauffant.
+
+Étape 4. Blocage des pertes conductives.
+Comme la couche extérieure d'eau reste froide (elle est continuellement
+renouvelée par de l'eau fraîche provenant de la source), la température de
+la paroi extérieure du capteur est proche de la température ambiante.
+Le gradient thermique « cœur chaud — air extérieur » est interrompu : la
+chaleur qui pourrait s'échapper à travers la paroi du tube et l'espace
+gazeux est interceptée par l'eau froide du circuit extérieur.
+
+Étape 5. Retour de la chaleur dans le système.
+L'eau de l'espace extérieur, chauffée par l'absorption du rayonnement IR
+de retour et par l'interception des flux conductifs, entre ensuite dans le
+circuit intérieur et est chauffée jusqu'à la température finale.
+Ainsi, les pertes radiatives et conductives qui, dans les conceptions
+conventionnelles, sont irrémédiablement perdues sont ici restituées au
+fluide caloporteur.
+
+4. BILAN ÉNERGÉTIQUE (estimatif, par 1 m²)
+Rayonnement solaire par temps clair : environ 1000 W/m².
+Sur ce total :
+— environ 830 W se situent dans la gamme visible et IR proche où l'eau est
+  transparente ; cette énergie atteint l'absorbeur noir.
+— environ 170 W sont absorbés directement par la couche extérieure d'eau
+  (il s'agit également d'un chauffage utile).
+
+L'émission IR thermique de l'eau chauffée à haute température (par exemple
+à 90°C) est d'environ 520 W/m². Dans la conception proposée, cette émission
+est complètement absorbée par une couche extérieure d'eau de seulement 1–2 mm
+d'épaisseur et ne quitte pas le système.
+
+Résultat : les pertes radiatives et conductives sont pratiquement nulles.
+
+5. CARACTÉRISTIQUES DISTINCTIVES
+— Utilisation du même fluide caloporteur (l'eau) dans deux circuits
+  séquentiels.
+— Une couche extérieure d'eau froide de 1–2 mm d'épaisseur (puisée dans une
+  source d'eau) agit comme un filtre IR sélectif, absorbant le rayonnement
+  thermique de retour des éléments chauds du circuit intérieur.
+— Cette même couche extérieure d'eau froide de 1–2 mm agit simultanément
+  comme une barrière thermique, bloquant les pertes radiales par conduction
+  depuis le cœur chaud (la température de la paroi extérieure reste proche
+  de la température ambiante).
+— L'absorbeur noir est placé À L'INTÉRIEUR du tube intérieur transparent,
+  ce qui évite les pertes de chaleur à travers sa paroi et garantit le
+  contact direct de l'eau avec l'absorbeur.
+— Un petit espace gazeux (quelques millimètres) entre les tubes transparents
+  réduit la conductivité thermique et supprime la convection.
+
+6. AVANTAGES
+— Construction simple à partir de matériaux disponibles (tubes en
+  polycarbonate, peinture noire).
+— Pas besoin de chambres à vide coûteuses ni de revêtements sélectifs.
+— Les pertes radiatives et conductives sont minimisées en exploitant les
+  propriétés physiques inhérentes à l'eau.
+— L'enveloppe extérieure d'eau froide reste froide, ce qui réduit les pertes
+  conductives vers l'environnement.
+
+7. STATUT
+La présente description est publiée en accès libre et placée dans le domaine
+public (Public Domain, CC0). Toute personne, organisation ou pays a le droit
+d'utiliser, copier, modifier et distribuer cette solution technique sans
+restriction ni paiement de redevances.
+
+Date de publication : 2026-06-08
