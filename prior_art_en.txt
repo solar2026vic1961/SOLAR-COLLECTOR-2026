@@ -1,0 +1,128 @@
+DOUBLE-CIRCUIT SOLAR COLLECTOR WITH WATER-BASED IR BACK-RADIATION FILTER
+(Prior art disclosure, public domain)
+
+Date of publication: 2026-06-08
+Author: anonymous. This document is released into the public domain (CC0).
+
+1. FIELD OF APPLICATION
+The device relates to solar collectors for heating water to high temperatures
+(well above ambient) with minimal heat losses.
+
+2. BACKGROUND
+Flat-plate and vacuum tube collectors with selective coatings are known.
+Their drawbacks: complex manufacturing, high cost, and IR radiative losses
+when heated above 60–70°C.
+
+3. DISCLOSURE OF THE INVENTION
+
+3.1. Principle of operation (simplified)
+Liquid water has a unique optical property: it is transparent to visible
+(short-wave) radiation in the 0.4–0.75 µm range, but strongly absorbs
+infrared (IR, long-wave) radiation emitted by hot objects.
+
+The proposed design uses this property as follows:
+— Cold water, taken from a water source, flows through the outer circuit
+  and freely transmits sunlight to the black absorber in the inner circuit
+  (due to water transparency in the visible range).
+— The same cold water simultaneously acts as a filter, trapping the thermal
+  IR radiation from the hot elements of the inner circuit and preventing it
+  from escaping (due to water absorption in the IR range).
+— The cold water in the outer circuit also acts as a **thermal barrier**:
+  it keeps the outer wall of the collector cool, so that radial conductive
+  losses from the hot core are virtually absent (no significant temperature
+  difference between the outer wall and the ambient air).
+— The absorbed heat (from both back-radiation and any conductive flows)
+  remains in the system and is returned to the heat transfer fluid.
+
+3.2. Construction
+— Inner circuit: a transparent tube (glass or polycarbonate) containing
+  a black matte absorber heated by solar radiation. The heated water flows
+  inside this tube.
+— Outer circuit: a 1–2 mm gap between two transparent tubes (outer and inner)
+  through which cold water from a water source flows (the same water that
+  later enters the inner circuit).
+— An additional sealed gap between the two transparent tubes may be filled
+  with air, carbon dioxide, argon, or another gas of low thermal conductivity.
+  The thickness of this gap must be small (a few millimetres) to suppress
+  convection.
+— The black absorber is placed INSIDE the transparent inner tube, so that
+  heat is transferred directly to the water at the contact zone, not through
+  the tube wall.
+
+3.3. Detailed description of processes (step by step)
+
+Step 1. Transmission of sunlight.
+Solar radiation passes through the outer transparent wall, then through the
+cold water layer in the outer gap (water is transparent to visible radiation
+in the 0.4–0.75 µm range), then through the wall of the inner tube, and finally
+strikes the black absorber, heating it.
+
+Step 2. Heating of water in the inner circuit.
+Water flowing inside the inner tube directly contacts the black absorber
+and takes up heat without intermediate layers. The water temperature rises.
+
+Step 3. Backward thermal IR radiation.
+The hot elements of the inner circuit (water, tube wall, black absorber)
+emit thermal radiation in the infrared range (long-wave IR). This radiation
+is almost completely blocked by the cold water layer in the outer gap:
+water strongly absorbs IR radiation. The radiation is absorbed by the outer
+water layer, heating it.
+
+Step 4. Blocking of conductive losses.
+Because the outer water layer remains cool (it is continuously replaced by
+fresh water from the source), the temperature of the collector's outer wall
+is close to ambient. The temperature gradient "hot core — outside air" is
+interrupted: heat that would otherwise escape through the tube wall and
+gas gap is intercepted by the cold water of the outer circuit.
+
+Step 5. Return of heat to the system.
+The water in the outer gap, warmed by absorbing back IR radiation and
+intercepted conductive flows, then enters the inner circuit and is further
+heated to the final temperature. Thus, both radiative and conductive losses
+that would be irretrievably lost in conventional designs are returned to the
+heat transfer fluid.
+
+4. ENERGY BALANCE (estimated, per 1 m²)
+Solar radiation under clear skies: about 1000 W/m².
+Of this:
+— about 830 W falls in the visible and near-IR range where water is
+  transparent; this energy reaches the black absorber.
+— about 170 W is absorbed directly by the outer water layer (this is also
+  useful heat).
+
+Thermal IR emission of water heated to a high temperature (e.g., at 90°C)
+is about 520 W/m². In the proposed design, this emission is completely
+absorbed by an outer water layer only 1–2 mm thick and does not escape the
+system.
+
+Result: radiative and conductive losses are virtually zero.
+
+5. DISTINCTIVE FEATURES
+— The same water is used as the heat transfer fluid in two sequential circuits.
+— A 1–2 mm cold water layer (taken from a water source) acts as a selective
+  IR filter, absorbing the backward thermal radiation from the hot elements
+  of the inner circuit.
+— The same 1–2 mm cold water layer simultaneously acts as a thermal barrier,
+  blocking radial conductive losses from the hot core (the outer wall
+  temperature remains close to ambient).
+— The black absorber is placed INSIDE the transparent inner tube, preventing
+  heat loss through the tube wall and ensuring direct contact between water
+  and absorber.
+— A thin gas gap (a few millimetres) between the transparent tubes reduces
+  heat conduction and suppresses convection.
+
+6. ADVANTAGES
+— Simple construction from readily available materials (polycarbonate tubes,
+  black paint).
+— No expensive vacuum chambers or selective coatings.
+— Radiative and conductive losses are minimised by exploiting the inherent
+  optical and thermal properties of water.
+— The outer cold water shell remains cool, reducing conductive losses to the
+  environment.
+
+7. STATUS
+This disclosure is placed in the public domain (CC0). Any person, organisation,
+or country may freely use, copy, modify, and distribute this technical solution
+without restriction or royalty.
+
+Date of publication: 2026-06-08
