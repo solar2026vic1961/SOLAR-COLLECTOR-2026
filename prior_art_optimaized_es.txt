@@ -1,0 +1,35 @@
+ADENDA DE OPTIMIZACIÓN AL CALENTADOR SOLAR DE AGUA DE DOS ETAPAS CON FILTRO IR DE AGUA PARA RADIACIÓN INVERSA
+(Public Domain, CC0)
+
+Fecha de la publicación principal: 2026-06-08
+Fecha de esta adenda: 2026-06-13
+
+1. PARÁMETROS DE DISEÑO OPTIMIZADOS
+
+1.1. Espesor del espacio de agua externo: unos milímetros (suficiente para >99% de absorción del IR térmico).
+1.2. Espesor del espacio de gas interno: unos milímetros de aire a presión atmosférica o unos milímetros de argón.
+1.3. Longitud activa: tal que el agua externa permanezca fría (cerca de la temperatura de entrada).
+1.4. Material de las cubiertas: vidrio borosilicatado o policarbonato transparente estabilizado a los rayos UV.
+
+2. CIRCUITOS SEPARADOS (OPTIMIZACIÓN DEL CAUDAL)
+
+— Circuito A (espacio externo): caudal alto, pequeño aumento de temperatura. Función: filtro IR, barrera térmica, calentamiento de baja temperatura.
+— Circuito B (tubo interno): caudal bajo, gran aumento de temperatura. Función: calentamiento final de alta temperatura (90‑100°C).
+
+Ventajas:
+— Menor longitud del colector.
+— El agua externa permanece fría → menores pérdidas.
+— Mayor eficiencia en la misma superficie (colector + reflector).
+— El agua tibia del circuito A puede usarse para aplicaciones de baja temperatura.
+
+3. RECOMENDACIONES PRÁCTICAS
+
+— Tubo coaxial: espacio de agua externo de unos mm, espacio de gas interno de unos mm.
+— Reflector de aluminio con área mayor que el área frontal del colector.
+— Solo el circuito B (caudal bajo) necesita regulación para mantener la temperatura de salida.
+
+4. ESTADO
+
+Dominio público (CC0). Uso libre sin restricciones.
+
+Fecha de publicación: 2026-06-13
