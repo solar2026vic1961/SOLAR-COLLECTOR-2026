@@ -1,0 +1,35 @@
+ADDITIF D'OPTIMISATION POUR CHAUFFE-EAU SOLAIRE À DEUX ÉTAGES AVEC FILTRE IR À EAU POUR RAYONNEMENT INVERSE
+(Public Domain, CC0)
+
+Date de la publication principale : 2026-06-08
+Date du présent additif : 2026-06-13
+
+1. PARAMÈTRES CONSTRUCTIFS OPTIMISÉS
+
+1.1. Épaisseur de la couche d'eau externe : quelques millimètres (absorption >99% de l'IR thermique).
+1.2. Épaisseur de la couche de gaz interne : quelques millimètres d'air à pression atmosphérique ou quelques millimètres d'argon.
+1.3. Longueur active : telle que l'eau externe reste froide (proche de la température d'entrée).
+1.4. Matériau des enveloppes : verre borosilicate ou polycarbonate transparent stabilisé UV.
+
+2. CIRCUITS SÉPARÉS (OPTIMISATION DES DÉBITS)
+
+— Circuit A (espace externe) : débit élevé, faible augmentation de température. Rôle : filtre IR, barrière thermique, préchauffage basse température.
+— Circuit B (tube interne) : débit faible, augmentation de température importante. Rôle : chauffage final haute température (90‑100°C).
+
+Avantages :
+— Longueur du collecteur réduite.
+— Eau externe froide → pertes réduites.
+— Meilleur rendement au sol (collecteur + réflecteur).
+— L'eau tiède du circuit A peut être utilisée pour des besoins basse température.
+
+3. RECOMMANDATIONS PRATIQUES
+
+— Tube coaxial : espace eau externe de quelques mm, espace gaz interne de quelques mm.
+— Réflecteur en aluminium, surface supérieure à la surface frontale du collecteur.
+— Seul le circuit B (faible débit) est régulé pour maintenir la température de sortie.
+
+4. STATUT
+
+Domaine public (CC0). Utilisation libre sans restriction.
+
+Date de publication : 2026-06-13
