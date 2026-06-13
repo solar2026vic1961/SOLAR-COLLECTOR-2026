@@ -1,0 +1,71 @@
+OPTIMIZATION ADDENDUM TO THE TWO-STAGE SOLAR WATER HEATER WITH WATER IR FILTER FOR BACK RADIATION
+(Public Domain, CC0)
+
+Original publication date of the main document: 2026-06-08
+Addendum date: 2026-06-13
+
+This addendum does not override the original description but clarifies optimal parameters and introduces a variant with separated coolant flow rates to improve efficiency and reduce material consumption.
+
+1. OPTIMIZED DESIGN PARAMETERS
+
+Based on energy modeling (considering radiation balance of the outer shell, longitudinal temperature gradient, and spectral splitting of solar radiation), the following optimal parameters are identified:
+
+1.1. Outer water gap thickness: several millimeters (sufficient for >99% absorption of thermal IR). Increasing the gap beyond this range provides no significant advantage.
+
+1.2. Inner gas gap thickness: several millimeters of air at atmospheric pressure or a few millimeters of argon. This suppresses natural convection and creates a thermal barrier without requiring complex vacuum technology.
+
+1.3. Active length per pass: such that the outer water remains cold (close to inlet temperature). Longer lengths reduce effectiveness due to heating of the outer water.
+
+1.4. Shell material: borosilicate glass (preferred) or UV-stabilized transparent polycarbonate (budget option).
+
+2. FLOW RATE OPTIMIZATION (SEPARATE CIRCUITS)
+
+Key improvement over the original single-flow design: independent coolant circuits for the outer gap and the inner tube.
+
+2.1. Hydraulic Scheme
+
+Cold water feeds two independent circuits:
+  — Circuit A (outer water gap): high flow rate.
+  — Circuit B (inner tube, surrounding the absorber): low flow rate.
+
+The circuits are hydraulically isolated from each other.
+
+2.2. Circuit Parameters (per m² of collector frontal area)
+
+| Circuit | Flow rate | Temperature rise | Outlet temperature | Function |
+| :--- | :--- | :--- | :--- | :--- |
+| A (outer) | Significantly higher | Small (a few K) | Slightly above inlet | IR filter, thermal barrier, low‑temperature heating |
+| B (inner) | Significantly lower | Large (several tens of K) | Desired high temperature (e.g., 90‑100°C) | High‑temperature final heating |
+
+2.3. Advantages of Flow Separation
+
+— Collector length is reduced compared to a single‑flow design.
+— Outer water remains cold → lower external losses (convection + radiation).
+— Higher overall efficiency on the same footprint (collector + reflector).
+— Warm water from Circuit A can be used for low‑temperature applications (pre‑heating, pool heating, etc.) without affecting the high‑temperature output.
+
+2.4. Cascaded Preheating Option
+
+For temperatures above 99°C or limited available area, multiple outer gaps with gradually decreasing flow rates can be used.
+
+3. PRACTICAL RECOMMENDATIONS
+
+3.1. Simple two‑circuit prototype:
+  — Coaxial tube, length chosen so outer water stays cold.
+  — Outer water gap of several mm (Circuit A, high flow).
+  — Inner gas gap of several mm (air or argon).
+  — Inner tube diameter such that low flow (Circuit B) achieves the required outlet temperature.
+  — Aluminum reflector with area larger than the collector frontal area.
+
+3.2. Hydraulic connections:
+  — Cold water is split into two streams.
+  — Stream A (high flow) → outer gap → low‑temperature buffer tank or primary pre‑heating stage.
+  — Stream B (low flow) → inner tube → high‑temperature buffer tank or direct consumer.
+
+3.3. Control: To maintain a constant high outlet temperature under varying solar radiation, only the low flow rate (Circuit B) needs adjustment. Circuit A can run at a constant high rate, as its outlet temperature is non‑critical.
+
+4. STATUS
+
+This addendum, like the original description, is placed in the public domain (CC0). Any person, organization, or country may freely use, copy, modify, and distribute these technical solutions without restrictions or royalty payments.
+
+Date of publication: 2026-06-13
